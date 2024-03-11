@@ -1,1 +1,1 @@
-# FrogParkourMasters2
+I added in a collectible coin that randomly respawns everytime one of the players picks it up. I also added in the GameStateManager, but I wasn't fully sure how it was supposed to work. I added in the Item and the Inventory but once again I couldn't entirely figure out how to make it work well.
